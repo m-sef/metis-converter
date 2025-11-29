@@ -1,6 +1,6 @@
 # __metis-converter__
 
-Simple C++ utility program for converting graphs to METIS format from edge-list format.
+Simple C++ utility program for converting graphs to [METIS](https://people.sc.fsu.edu/~jburkardt/data/metis_graph/metis_graph.html) format from edge-list format. 
 
 Usage: `metis -f FILE`
 
