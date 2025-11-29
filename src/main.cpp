@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @author Seth Moore (slmoore@hamilton.edu)
+ * @author m_sef (https://github.com/m-sef)
  * @brief Program for converting graph files to METIS format
  * @date 2025-04-30
  * 
@@ -25,7 +25,9 @@ const static struct option long_options[] = {
 };
 
 static inline void print_usage() {
-    puts("usage: ./metis -f FILE");
+    puts(
+        "usage: metis -f FILE\n"
+        "       metis [-h]");
 }
 
 int main(int argc, char** argv) {

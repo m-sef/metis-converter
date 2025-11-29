@@ -1,6 +1,6 @@
 /**
  * @file utility.h
- * @author Seth Moore (slmoore@hamilton.edu)
+ * @author m_sef (https://github.com/m-sef)
  * @date 2025-04-30
  * 
  */

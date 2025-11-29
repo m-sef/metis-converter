@@ -1,6 +1,6 @@
 /**
  * @file graph.h
- * @author Seth Moore (slmoore@hamilton.edu)
+ * @author m_sef (https://github.com/m-sef)
  * @brief Graph implementation
  * @date 2025-04-30
  * 
